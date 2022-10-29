@@ -1,0 +1,5 @@
+colorama
+py-cord==2.0.0b4
+discord
+httpx
+fade
